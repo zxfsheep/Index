@@ -7,5 +7,5 @@ This serves as a brief index page to my other repositories.
 * [Machine learning random ideas](https://github.com/zxfsheep/ML-random-ideas/blob/master/README.md) is to drop new ideas that I came up with while practicing data science and machine learning.
 
 ---
-[My academic homepage](https://www.math.brown.edu/~xufanz)
+[My academic homepage](https://www.math.brown.edu/~xufanz) with links to my papers and slides.
 
