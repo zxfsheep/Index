@@ -8,5 +8,5 @@ This serves as a brief index page to my other repositories.
 * [Machine learning building blocks](https://github.com/zxfsheep/ML-building-blocks/blob/master/README.md) is to record my codes for future use in data science and machine learning projects, with comments and details.
 
 ---
-[My academic homepage](https://www.math.brown.edu/~xufanz) with links to my papers and slides.
+[My academic homepage](https://www.math.brown.edu/~xufanz) with links to my papers and slides on probability and discrete math.
 
